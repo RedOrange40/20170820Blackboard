@@ -28,6 +28,11 @@ https://youtu.be/NPT44pSHrw8
 <br>
 hyperledgerFabric-v0.6-04-實作演練:利用腳本程序把四個節點的區塊鏈運行起來-02 (15:14) 
 https://youtu.be/g461_a63WP0
+<br>
+實作從原始碼編譯出一個完整的公有鏈<br>
+在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-01 (14:34) https://youtu.be/ECsRHMjG1mY <br>
+在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-02 (6:25) https://youtu.be/wpW7bEKfPj0  <br>
+在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-03 (6:02) https://youtu.be/nod55SIVMfA  <br>
 
 ---------------------------------------------------------------
 ```
