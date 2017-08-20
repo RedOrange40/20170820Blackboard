@@ -29,10 +29,17 @@ https://youtu.be/NPT44pSHrw8
 hyperledgerFabric-v0.6-04-實作演練:利用腳本程序把四個節點的區塊鏈運行起來-02 (15:14) 
 https://youtu.be/g461_a63WP0
 <br>
-實作從原始碼編譯出一個完整的公有鏈<br>
+5.  實作從原始碼編譯出一個完整的公有鏈<br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-01 (14:34) https://youtu.be/ECsRHMjG1mY <br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-02 (6:25) https://youtu.be/wpW7bEKfPj0  <br>
 在GCP上的UbuntuVM編譯Bitcoin Core的原始碼-03 (6:02) https://youtu.be/nod55SIVMfA  <br>
+<br>
+將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-01 (5:54) https://youtu.be/pHeRXlknw_0 <br>
+將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-02-安裝vncserver與修改vncserver參數(11:44) 
+https://youtu.be/7K6q5ZdC5Nw  <br>
+將虛擬機的Ubuntu server升級成Ubuntu Desktop版本-03-GCP的防火牆設定與利用vncviewer連線到VM  (9:35)   
+https://youtu.be/u_3KKgx0Qgs <br>
+
 
 ---------------------------------------------------------------
 ```
